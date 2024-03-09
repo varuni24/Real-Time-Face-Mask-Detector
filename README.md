@@ -1,4 +1,4 @@
-# Real Time Face Mask Detection using YOLOv5
+# Real Time Face Mask Detection using YOLOv5 (Team)
 
 ## Introduction
 
